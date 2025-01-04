@@ -18,9 +18,8 @@ return (<button style={styles}>Click Me</button>);
 
 }
 
+export default Button
         
     
     
 
-
-export default Button
