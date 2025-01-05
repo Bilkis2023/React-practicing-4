@@ -1,5 +1,7 @@
 // import Styles from './Button.module.css';
 
+/* 3. INLINE */
+
 function Button() {
 
 const styles ={
